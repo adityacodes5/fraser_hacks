@@ -1,4 +1,7 @@
 #   Productivity Race  
+
+Created by Aditya Makhija and Aarsh Bajaj at St. Francis Xavier Secondary
+
 **Level Up Your Learning Journey**
 
 Productivity Race is a habit-tracking and gamified productivity app designed to help students and educators achieve their goals while having fun. Built for the education-themed tournament, this app transforms everyday tasks into a competitive and rewarding experience.
