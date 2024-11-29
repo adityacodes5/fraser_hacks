@@ -19,15 +19,11 @@ Productivity Race is a habit-tracking and gamified productivity app designed to 
 - Stay on top of assignments, lesson prep, and self-study.  
 - Build better habits while prioritizing learning.  
 
-###  **Gamified Experience**  
-- Level up as you complete habits.  
-- Celebrate milestones with visually appealing progress bars and animations.  
-
 ---
 
 ##  Why Choose Productivity Race?  
 
-- **Tailored for Students**: Perfect for tackling assignments, staying on track with lessons, or organizing study schedules.  
+- **Made for Students**: Perfect for tackling assignments, staying on track with lessons, or organizing study schedules.  
 - **Social Accountability**: Compete with friends to keep each other motivated.  
 - **Simple Yet Powerful**: A clean design and user-friendly interface make it easy to build consistency.
 
@@ -46,16 +42,16 @@ View ongoing challenges directly from the home screen. Keep an eye on your strea
 
 ---
 
-##  Tech Stack  
+##  Technology Details  
 
 - **Flutter**: Fast and flexible UI framework.  
-- **Dart**: Ensures a responsive and seamless experience.  
-- **Google Fonts**: Clean typography for a polished look.  
-- **Stateful Widgets**: Keeps the app dynamic and interactive.  
+- **Dart**: Proper, memory safe language
+- **Google Fonts**: Used the Sen font to give a nice, polished look
+- **IOSs**: Great, popular platform to use the app on
 
 ---
 
-##  The Educational Edge  
+##  The Focus on Education  
 
 The theme of this app revolves around education, helping users to:  
 - Stay accountable to academic tasks.  
@@ -63,13 +59,5 @@ The theme of this app revolves around education, helping users to:
 - Collaborate and compete with peers in a fun, motivating way.  
 
 Whether you’re a student juggling assignments or a teacher managing your schedule, Productivity Race makes productivity engaging and rewarding.
-
----
-
-## Roadmap  
-
-- **Streak Tracking**: Stay motivated by building streaks for completing tasks.  
-- **Custom Challenges**: Create custom rules and durations for challenges.  
-- **Insights and Analytics**: Gain insights into your productivity trends over time.  
 
 ---
